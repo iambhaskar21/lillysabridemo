@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lillysabridemo/static/css/main.f6cc0972.chunk.css",
+    "main.js": "/lillysabridemo/static/js/main.74aa85b7.chunk.js",
+    "main.js.map": "/lillysabridemo/static/js/main.74aa85b7.chunk.js.map",
+    "runtime-main.js": "/lillysabridemo/static/js/runtime-main.65b95984.js",
+    "runtime-main.js.map": "/lillysabridemo/static/js/runtime-main.65b95984.js.map",
+    "static/js/2.c0773397.chunk.js": "/lillysabridemo/static/js/2.c0773397.chunk.js",
+    "static/js/2.c0773397.chunk.js.map": "/lillysabridemo/static/js/2.c0773397.chunk.js.map",
+    "static/js/3.50650cee.chunk.js": "/lillysabridemo/static/js/3.50650cee.chunk.js",
+    "static/js/3.50650cee.chunk.js.map": "/lillysabridemo/static/js/3.50650cee.chunk.js.map",
+    "index.html": "/lillysabridemo/index.html",
+    "static/css/main.f6cc0972.chunk.css.map": "/lillysabridemo/static/css/main.f6cc0972.chunk.css.map",
+    "static/js/2.c0773397.chunk.js.LICENSE.txt": "/lillysabridemo/static/js/2.c0773397.chunk.js.LICENSE.txt",
+    "static/media/bg-3.6c273393.jpg": "/lillysabridemo/static/media/bg-3.6c273393.jpg",
+    "static/media/logo.6ce24c58.svg": "/lillysabridemo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65b95984.js",
+    "static/js/2.c0773397.chunk.js",
+    "static/css/main.f6cc0972.chunk.css",
+    "static/js/main.74aa85b7.chunk.js"
+  ]
+}
