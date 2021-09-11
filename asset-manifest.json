@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lillysabridemo/static/css/main.1550905d.chunk.css",
+    "main.css": "/lillysabridemo/static/css/main.64644467.chunk.css",
     "main.js": "/lillysabridemo/static/js/main.d612662c.chunk.js",
     "main.js.map": "/lillysabridemo/static/js/main.d612662c.chunk.js.map",
     "runtime-main.js": "/lillysabridemo/static/js/runtime-main.db967d25.js",
@@ -10,14 +10,15 @@
     "static/js/3.43f0685a.chunk.js": "/lillysabridemo/static/js/3.43f0685a.chunk.js",
     "static/js/3.43f0685a.chunk.js.map": "/lillysabridemo/static/js/3.43f0685a.chunk.js.map",
     "index.html": "/lillysabridemo/index.html",
-    "static/css/main.1550905d.chunk.css.map": "/lillysabridemo/static/css/main.1550905d.chunk.css.map",
+    "static/css/main.64644467.chunk.css.map": "/lillysabridemo/static/css/main.64644467.chunk.css.map",
     "static/js/2.e1898d2a.chunk.js.LICENSE.txt": "/lillysabridemo/static/js/2.e1898d2a.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/lillysabridemo/static/media/bg.db4111c1.jpg",
     "static/media/logo.6ce24c58.svg": "/lillysabridemo/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.db967d25.js",
     "static/js/2.e1898d2a.chunk.js",
-    "static/css/main.1550905d.chunk.css",
+    "static/css/main.64644467.chunk.css",
     "static/js/main.d612662c.chunk.js"
   ]
 }
